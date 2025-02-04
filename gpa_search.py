@@ -1,5 +1,5 @@
 """
-This script will search for the average GPA of a list of classes and print them in descending order.
+This script will search for the average GPA of a list of classes and print them in descending order utilizing the PlanetTerp API.
 """
 
 import planetterp
